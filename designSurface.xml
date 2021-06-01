@@ -4,7 +4,7 @@
       <map>
         <entry key="app/src/main/res/layout/copydoc_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/events_row.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_config.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_config.xml" value="0.1296875" />
         <entry key="app/src/main/res/layout/list_row.xml" value="0.25364583333333335" />
         <entry key="app/src/main/res/layout/newdoc_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/notification.xml" value="0.1296875" />
