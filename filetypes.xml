@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="smartrfid" type="Android Room SQL" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="rfidcounter" type="XHTML" />
     </extensionMap>
   </component>
