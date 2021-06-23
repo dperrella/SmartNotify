@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.2791666666666667" />
+        <entry key="../../Library/Android/sdk/platforms/android-28/data/res/layout/select_dialog_singlechoice.xml" value="0.128125" />
         <entry key="../../Library/Android/sdk/platforms/android-28/data/res/layout/simple_spinner_item.xml" value="0.21014492753623187" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12760416666666666" />
         <entry key="app/src/main/res/layout/confirm_dialog.xml" value="0.128125" />
@@ -17,6 +18,7 @@
         <entry key="app/src/main/res/layout/fragment_scannersell.xml" value="0.335" />
         <entry key="app/src/main/res/layout/fragment_step.xml" value="0.128125" />
         <entry key="app/src/main/res/layout/list_row.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/layout/my_select_dialog.xml" value="0.128125" />
         <entry key="app/src/main/res/layout/newdoc_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/notification.xml" value="0.1296875" />
         <entry key="app/src/main/res/menu/menu_main.xml" value="0.2515625" />
